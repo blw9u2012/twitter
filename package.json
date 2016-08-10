@@ -1,0 +1,14 @@
+{
+  "name": "twitter-wordmine",
+  "version": "1.0.0",
+  "description": "A project introduce node concepts and to experiment with data mining",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twitter": "^1.4.0"
+  }
+}
